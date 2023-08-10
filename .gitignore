@@ -163,3 +163,6 @@ migrations/
 
 AI_FoodStylist_template/
 prompt/
+
+/chat/migrations/
+/chat/python/prompt/
