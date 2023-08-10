@@ -1,0 +1,31 @@
+.main-icon {
+  width: 200px;
+  height: 200px;
+}
+
+#MainImageContainer {
+  display: flex;
+  justify-content: center;
+}
+
+/* chatting line */
+.line {
+  margin-top: 30px;
+  display: flex;
+}
+
+.chat-box {
+  padding: 10px 20px;
+  background-color: #f1f1f1;
+  max-width: 400px;
+
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+/* user 채팅창 */
+.mine {
+  margin-left: auto;
+  background-color: #ddd;
+}
