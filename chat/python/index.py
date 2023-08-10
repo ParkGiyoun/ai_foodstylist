@@ -1,4 +1,5 @@
-from prompt import openai_def
+from chat.python.prompt import openai_def
+
 # system prompt
 file = open("python/prompt/system.txt", "r", encoding="utf-8")
 system_prompt = file.read()
